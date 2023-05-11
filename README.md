@@ -1,6 +1,6 @@
 # Sales-and-Inventory-Management-System
 
-#### Sales and Inventory Management System is a Tkinter (python module) based GUI application to generate sales invoices and maintence of inventory.
+#### Müügi- ja laohaldussüsteem on Tkinteril (pythoni moodulil) põhinev GUI-rakendus müügiarvete genereerimiseks ja laoseisu hooldamiseks.
 
 *	This application works on two levels of users, each category has different levels of rights to update the data & maintenance of masters like below.
 
