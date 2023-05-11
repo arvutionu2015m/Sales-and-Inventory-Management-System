@@ -1,4 +1,4 @@
-# Sales-and-Inventory-Management-System
+# Müügi- ja laoseisuhaldussüsteem
 
 #### Müügi- ja laohaldussüsteem on Tkinteril (pythoni moodulil) põhinev GUI-rakendus müügiarvete genereerimiseks ja laoseisu hooldamiseks.
 
