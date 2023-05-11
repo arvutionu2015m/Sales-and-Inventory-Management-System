@@ -2,7 +2,7 @@
 
 #### Müügi- ja laohaldussüsteem on Tkinteril (pythoni moodulil) põhinev GUI-rakendus müügiarvete genereerimiseks ja laoseisu hooldamiseks.
 
-*	This application works on two levels of users, each category has different levels of rights to update the data & maintenance of masters like below.
+*	See rakendus töötab kahel kasutajatasemel, igal kategoorial on erineva tasemega õigused meistrite andmete värskendamiseks ja hoolduseks, nagu allpool.
 
 ##### For Admin (Owner)
 *	Add/Remove/Edit Products
