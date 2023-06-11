@@ -1,7 +1,7 @@
 '''
-    INVENTORY MANAGEMENT SYSTEM
-    Developed By->PJ28105
-    Started On ->08/11/18
+    VARU HALDUSSÜSTEEM
+    Developed By->Arno Punnar
+    Started On ->08/11/22
 '''
 import sqlite3
 from tkinter import ttk
